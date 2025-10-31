@@ -10,4 +10,3 @@
 <ul>
     <li><a href="contact.html#contact">お問い合わせはこちら</a></li>
 </ul>
-    
