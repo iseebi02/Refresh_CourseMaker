@@ -19,8 +19,6 @@
   <title>sample</title>
   <style>
     #wrapper {
-      height: 200px;
-      width: 300px;
       height: 190px;
       width: 200px;
       overflow-y: scroll;
