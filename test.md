@@ -11,18 +11,7 @@
     <li><a href="contact.html#contact">お問い合わせはこちら</a></li>
 </ul>
 
-<!DOCTYPE html>
-<html>
 
-<head>
-  <meta charset="utf-8" />
-  <title>sample</title>
-  <style>
-    #wrapper {
-      height: 190px;
-      width: 200px;
-      overflow-y: scroll;
-    }
 function canBrowserShareFiles() {
   if (!navigator.share || !navigator.canShare) {
     return false;
@@ -59,26 +48,5 @@ if (canBrowserShareFiles()) {
     } catch (err) {
       console.error(`ファイルの共有ができませんでした: ${err}`);
     }
-  </style>
-</head>
-
-<body>
-  <div id="wrapper">
-    <div id="contents">
-      あいうえお<br>
-      かきくけこ<br>
-      さしすせそ<br>
-      たちつてと<br>
-      なにぬねの<br>
-      はひふへほ<br>
-      まみむめも<br>
-      や　ゆ　よ<br>
-      らりるれろ<br>
-      わ　　　を<br>
-      ん
-    </div>
-  </div>
-</body>
-
-</html>  });
+  });
 }
