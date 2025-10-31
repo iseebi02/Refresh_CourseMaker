@@ -10,3 +10,22 @@
 <ul>
     <li><a href="contact.html#contact">お問い合わせはこちら</a></li>
 </ul>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>sample</title>
+  <style>
+    #wrapper {
+      height: 200px;
+      width: 300px;
+      overflow-y: scroll;
+    }
+
+    #contents {
+      background-color: cadetblue;
+    }
+  </style>
+</head>
