@@ -29,3 +29,23 @@
     }
   </style>
 </head>
+
+<body>
+  <div id="wrapper">
+    <div id="contents">
+      あいうえお<br>
+      かきくけこ<br>
+      さしすせそ<br>
+      たちつてと<br>
+      なにぬねの<br>
+      はひふへほ<br>
+      まみむめも<br>
+      や　ゆ　よ<br>
+      らりるれろ<br>
+      わ　　　を<br>
+      ん
+    </div>
+  </div>
+</body>
+
+</html>
